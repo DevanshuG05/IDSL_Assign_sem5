@@ -21,12 +21,12 @@ Introduction to Data Science Lab focuses on understanding the fundamental concep
 
 | Sr. No. | Experiment Name |
 |---|---|
-| 1 |  |
-| 2 |  |
+| 1 | Data Science Lifecycle & Datatype Classification Using the Titanic Dataset |
+| 2 | Exploratory Data Analysis and Data Preprocessing using Python on a Real-World Dataset |
 | 3 | Statistical Analysis of Data: Central Tendency, Dispersion, Correlation, and Simpson’s Paradox |
 | 4 | Fundamentals of Probability and Distribution Concepts |
 | 5 | Data Visualization Techniques for Univariate, Bivariate, and Multivariate Analysis |
-| 6 |  |
+| 6 | Interactive Dashboards and Data Storytelling Using Power BI and Tableau |
 | 7 | Implement Dimensionality reduction using Principal Component Analysis method on the dataset Iris   |
 | 8 | Apply data preprocessing techniques such as categorical encoding, feature scaling, and binning/discretization  |
 | 9 |  |
